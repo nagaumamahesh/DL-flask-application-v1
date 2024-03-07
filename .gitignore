@@ -1,0 +1,28 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+
+# Log files
+*.log
+
+# IDE-specific files (for example, PyCharm)
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+
+# Temporary files
+*.swp
+
+# Dependency directories
+lib/
+lib64/
+
+my_env/
+
+uploads/
